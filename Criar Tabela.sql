@@ -1,0 +1,6 @@
+CREATE TABLE Jogador(
+  ID INT(4),
+  NOME VARCHAR(30),
+  ESPORTE VARCHAR(30)
+  
+  );
